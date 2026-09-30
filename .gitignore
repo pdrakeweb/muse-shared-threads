@@ -1,0 +1,13 @@
+# generated / local state - never commit
+ht.db*
+.password*
+config.json
+token.env
+.tunnel_url
+.watch_state
+uploads/
+venv/
+__pycache__/
+*.log
+.env
+.DS_Store
